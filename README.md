@@ -23,4 +23,5 @@ On my GitHub, I share personal projects, technical experiments, and prototypes t
 ## 🌐 Learn more about me
 
 👉 https://agile-is-a-state-of-mind.com
+
 👉 https://www.der-e-coach.de
